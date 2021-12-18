@@ -4,6 +4,7 @@ import {Feature } from '../../components';
 
 const featuresData = [
     {
+<<<<<<< HEAD
       title: 'REAL TIME REPORT',
       text: 'We provide our real time reporting panel access to every publisher. Publishers can view their traffic reports 24/7 by using our panel.',
     },
@@ -23,6 +24,22 @@ const featuresData = [
     {
       title: 'CREATIVE SUPPORT',
       text: 'LTPLDIGITAL has a team of creative support experts that design appealing landing pages and content that can be used to boost their campaigns.',
+=======
+      title: 'Improving end distrusts instantly',
+      text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    },
+    {
+      title: 'Become the tended active',
+      text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    },
+    {
+      title: 'Message or am nothing',
+      text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    },
+    {
+      title: 'Really boy law county',
+      text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+>>>>>>> 9cc6d4455690b7e567425e2116a5e0072ffbc7f5
     },
   ];
 

@@ -19,4 +19,8 @@ const Article = ({ imgUrl, text, text2 }) => (
 );
 
 export default Article;
+<<<<<<< HEAD
 // const Article = ({ imgUrl, date, text, text2 })
+=======
+{/* const Article = ({ imgUrl, date, text, text2 })*/}
+>>>>>>> 9cc6d4455690b7e567425e2116a5e0072ffbc7f5
