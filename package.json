@@ -1,5 +1,9 @@
 {
   "name": "figmaap",
+<<<<<<< HEAD
+  "homepage": "https://blend4unity.github.io/cpalive",
+=======
+>>>>>>> 9cc6d4455690b7e567425e2116a5e0072ffbc7f5
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +11,10 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "emailjs-com": "^3.2.0",
+<<<<<<< HEAD
+    "gh-pages": "^3.2.3",
+=======
+>>>>>>> 9cc6d4455690b7e567425e2116a5e0072ffbc7f5
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
@@ -16,6 +24,11 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+<<<<<<< HEAD
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+=======
+>>>>>>> 9cc6d4455690b7e567425e2116a5e0072ffbc7f5
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
