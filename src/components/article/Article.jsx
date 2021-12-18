@@ -19,4 +19,4 @@ const Article = ({ imgUrl, text, text2 }) => (
 );
 
 export default Article;
-{/* const Article = ({ imgUrl, date, text, text2 })*/}
+// const Article = ({ imgUrl, date, text, text2 })

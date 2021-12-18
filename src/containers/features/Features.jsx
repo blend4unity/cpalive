@@ -4,20 +4,25 @@ import {Feature } from '../../components';
 
 const featuresData = [
     {
-      title: 'Improving end distrusts instantly',
-      text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+      title: 'REAL TIME REPORT',
+      text: 'We provide our real time reporting panel access to every publisher. Publishers can view their traffic reports 24/7 by using our panel.',
     },
     {
-      title: 'Become the tended active',
-      text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+      title: 'HIGHEST PAYOUTS',
+      text: 'We close the campaign deals with an advertiser on a high payout because of the quality traffic that our Affiliate members generate.',
     },
     {
-      title: 'Message or am nothing',
-      text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+      title: 'EXCLUSIVE OFFERS',
+      text: 'We have most of the exclusive offers from the world. Check our offer list and apply the one that suits your traffic the best. Check out our latest offers.',
+    },
+   
+    {
+      title: 'TIMELY PAYMENT',
+      text: 'The payment of publishers is usually made in 30 days (NET30) after the end of the month and after receiving a payment from the Advertiser.',
     },
     {
-      title: 'Really boy law county',
-      text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+      title: 'CREATIVE SUPPORT',
+      text: 'LTPLDIGITAL has a team of creative support experts that design appealing landing pages and content that can be used to boost their campaigns.',
     },
   ];
 
